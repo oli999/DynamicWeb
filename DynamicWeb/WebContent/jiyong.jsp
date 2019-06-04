@@ -4,7 +4,7 @@
 <html lang="ko">
 <head>
 <meta charset=UTF-8"/>
-<title>dend.jsp</title>
+<title>jiyong.jsp</title>
 </head>
 <body>
 
