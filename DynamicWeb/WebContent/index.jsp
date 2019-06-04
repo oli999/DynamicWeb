@@ -11,7 +11,6 @@
 <ul>
 	<li><a href="kimgura.jsp">김구라</a></li>
 	<li><a href="jaeok.jsp">재옥페이지 이동</a></li>
-
 	<li><a href="kimgura.jsp">김구라</a></li>
 	<li><a href="namhyen.jsp">남현</a></li>
 	<li><a href="kyunglin.jsp">박경린</a></li>
