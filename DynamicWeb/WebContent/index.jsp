@@ -18,6 +18,7 @@
 	<li><a href="hwanTest.jsp">김지환</a></li>
 	<li><a href="jusangha.jsp">주상하</a></li>
 	<li><a href="jiyong.jsp">이지용</a></li>
+	<li><a href="joo.jsp">이영주</a></li>
 </ul>
 </body>
 </html>
