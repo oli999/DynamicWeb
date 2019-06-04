@@ -4,14 +4,9 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8"/>
-<title>Insert title here</title>
+<title>seungwon</title>
 </head>
 <body>
-<h1>인덱스 페이지 입니다.</h1>
-<ul>
-	<li><a href="kimgura.jsp">김구라</a></li>
-	<li><a href="seungwon.jsp">심승원</a></li>
-	
-</ul>
+<h1>심승원 페이지</h1>
 </body>
 </html>
