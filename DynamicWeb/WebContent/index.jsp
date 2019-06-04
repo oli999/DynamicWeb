@@ -9,8 +9,14 @@
 <body>
 <h1>인덱스 페이지 입니다.</h1>
 <ul>
+
 	<li><a href="kimgura.jsp">김구라</a></li>
 	<li><a href="a.jsp">최성원</a></li>
+
+	<li><a href="kimgura.jsp">김구라</a></li>
+	<li><a href="namhyen.jsp">남현</a></li>
+	<li><a href="kyunglin.jsp">박경린</a></li>
+
 </ul>
 </body>
 </html>
