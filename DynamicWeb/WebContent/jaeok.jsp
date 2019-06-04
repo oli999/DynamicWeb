@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>인덱스 페이지 입니다.</h1>
-<ul>
-	<li><a href="kimgura.jsp">김구라</a></li>
-	<li><a href="jaeok.jsp">재옥페이지 이동</a></li>
-	
-</ul>
+<h3>안녕하세요 어서오세요</h3>
 </body>
 </html>
