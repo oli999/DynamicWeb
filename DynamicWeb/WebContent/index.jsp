@@ -5,6 +5,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>Insert title here</title>
+
 </head>
 
 <body>
@@ -31,7 +32,9 @@
 
 
 
+
 	<li><a href="kimgura.jsp">김구라</a></li>
+	<li><a href="jaeok.jsp">재옥페이지 이동</a></li>
 	<li><a href="seungwon.jsp">심승원</a></li>
 	<li><a href="namhyen.jsp">남현</a></li>
 	<li><a href="hwanTest.jsp">김지환</a></li>
