@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<li><a href="b.jsp">ㄱㄱ</a></li>
 </body>
 </html>
