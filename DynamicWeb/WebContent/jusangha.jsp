@@ -1,13 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="utf-8"/>
-<title>Insert title here</title>
+<title>jusangha.jsp</title>
 </head>
 <body>
-<li><a href="b.jsp">ㄱㄱ</a></li>
+<h1>jusangha page</h1>
 </body>
 </html>

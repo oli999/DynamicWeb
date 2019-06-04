@@ -3,12 +3,10 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset=UTF-8"/>
-<title>dend.jsp</title>
+<meta charset="utf-8"/>
+<title>Insert title here</title>
 </head>
 <body>
-
-<h1>Cheers~</h1>
-
+<h3>안녕하세요 어서오세요</h3>
 </body>
 </html>
